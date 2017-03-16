@@ -1,0 +1,3 @@
+[submodule "themes/CarveCode"]
+	path = themes/CarveCode
+	url = git@github.com:CarveCode/hexo-theme.git
