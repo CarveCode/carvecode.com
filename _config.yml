@@ -4,7 +4,7 @@
 
 # Site
 title: CarveCode
-subtitle: Learn to code like a master carver
+subtitle: Become a master code carver 
 description:
 author: Trevor Huey
 language:
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: Hacker
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
