@@ -69,5 +69,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: git@github.com:CarveCode/carvecode.github.io.git
+  repo: git@github.com:CarveCode/carvecode.github.io.git
   branch: master
